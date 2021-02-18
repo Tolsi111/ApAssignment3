@@ -1,3 +1,4 @@
+#I MADE THIS CHANGE TOO
 def displayNotes():
     msg = "Hi and welcome to my second app"
     msg +="A math teacher needs a program that helps students perform simple operations \n with points in two-dimensional space. \n"
